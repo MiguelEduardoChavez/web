@@ -33,13 +33,6 @@ hr.star-dark:after {
   font-family: FontAwesome;
   font-size: 2em;
 }
-.whatsapp{
-  position: relative; 
-  content: '\f232';
-  font-family: FontAwesome;
-  font-size: 2em;
-  
-}
 hr.star-light {
   border-color: #fff;
 }
@@ -395,4 +388,49 @@ a:focus, a:hover, a:active {
 }
 .f-bl{
  color: #e9ecef; 
+}
+
+
+.skill5
+{   padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #18BC9C;
+    text-align: center;
+}
+
+.skill5 .counter-count 
+{    -webkit-box-shadow: 2px 2px 5px 0px rgba(0, 0, 0, 1);
+    -moz-box-shadow: 2px 2px 5px 0px rgba(0, 0, 0, 1);
+    box-shadow: 2px 2px 5px 0px rgba(0, 0, 0, 1);
+    font-size: 40px;
+    background-color: #e9ecef;
+    border-radius: 50%;
+    position: relative;
+    color: #18BC9C;
+    text-align: center;
+    line-height: 120px;
+    width: 130px;
+    height: 130px;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    display: inline-block;
+   
+}
+
+.skill5 .counter-count .counter-percent
+{	
+	font-size: 40px;
+    color: #18BC9C;
+    margin-left: 1px;
+  
+}
+
+.skill5 .counter-bottom
+{
+    font-size: 24px;
+    font-weight: 400;
+    color: #e9ecef;
+    line-height: 34px;
 }
