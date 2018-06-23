@@ -29,7 +29,7 @@ hr.star-dark:after {
   top: -.8em;
   display: inline-block;
   padding: 0 0.25em;
-  content: '\f005';
+  content: '\f13d';
   font-family: FontAwesome;
   font-size: 2em;
 }
@@ -210,7 +210,7 @@ header.masthead h2 {
   -moz-transition: all ease 0.5s;
   transition: all ease 0.5s;
   opacity: 0;
-  background-color: rgba(24, 188, 156, 0.9);
+  background-color: rgba(20, 173, 169, 0.9);
 }
 
 .portfolio .portfolio-item .portfolio-item-caption:hover {
