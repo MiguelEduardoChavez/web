@@ -33,7 +33,13 @@ hr.star-dark:after {
   font-family: FontAwesome;
   font-size: 2em;
 }
-
+.whatsapp{
+  position: relative; 
+  content: '\f232';
+  font-family: FontAwesome;
+  font-size: 2em;
+  
+}
 hr.star-light {
   border-color: #fff;
 }
@@ -377,4 +383,7 @@ a:focus, a:hover, a:active {
 .btn-secondary:hover, .btn-secondary:focus, .btn-secondary:active {
   background-color: #1a252f;
   border-color: #1a252f;
+}
+.img-diamante{
+  width: 40px;
 }
